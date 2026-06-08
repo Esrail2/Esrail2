@@ -10,8 +10,9 @@
 
 ### 💫 About Me
 
-I am a passionate **Full-Stack Web Developer**, **SEO Expert**, and **Automation Engineer** dedicated to building high-performance, SEO-friendly, and modern web applications. I love solving complex backend bottlenecks, automating workflows, and optimizing websites to achieve perfect lighthouse/speed scores.
+I am a passionate **Full-Stack Web Developer**, **SEO Expert**, **Automation Engineer**, and **Level 1 Seller on Fiverr** dedicated to building high-performance, SEO-friendly, and modern web applications. I love solving complex backend bottlenecks, automating workflows, and optimizing websites to achieve perfect lighthouse/speed scores.
 
+- 💼 **Freelancing**: **Level 1 Seller on Fiverr**, delivering premium web and automation solutions to clients worldwide.
 - 🔭 I’m currently working on building high-performance web applications using **Next.js** and **MERN Stack**.
 - ⚡ I specialize in **Frontend/Backend SEO optimization**, database performance tuning, and bypassing complex web protections.
 - 💬 Ask me about: **Next.js, React, Node.js, Express, MongoDB, Web Automation (Puppeteer), and Technical SEO.**
@@ -57,9 +58,12 @@ I am a passionate **Full-Stack Web Developer**, **SEO Expert**, and **Automation
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect & Collaborate
 
 <p align="center">
+  <a href="https://www.fiverr.com/esrailhaque" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Level%201%20Seller-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
   <a href="mailto:esrailbblhs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
