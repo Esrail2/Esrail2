@@ -1,7 +1,9 @@
-# Hi there, I'm Esrail Haque! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00E5FF,30,0052D4,100,4364F7&height=220&section=header&text=Md%20Esrail%20Haque&fontSize=44&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%26+MERN+Stack+Specialist;SEO+%26+Performance+Optimizer;Web+Automation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Next.js+%26+MERN+Stack;SEO+%26+Performance+Optimizer;Web+Automation+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,24 +21,8 @@ I am a passionate **Full-Stack Web Developer**, **SEO Expert**, and **Automation
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-</p>
-
-<p align="left">
-  <!-- Backend & Databases -->
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://pptr.dev" target="_blank"><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" /></a>
-  <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,vercel" alt="My Tech Stack" />
 </p>
 
 ---
@@ -44,18 +30,18 @@ I am a passionate **Full-Stack Web Developer**, **SEO Expert**, and **Automation
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Esrail2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Esrail2's GitHub Stats" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Esrail2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF" alt="Esrail2's GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esrail2&layout=compact&theme=tokyonight&hide_border=true" alt="Esrail2's Top Languages" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esrail2&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Esrail2's Top Languages" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esrail2&theme=tokyonight&hide_border=true" alt="Esrail2's Streak Stats" />
+      <td colspan="2" align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esrail2&theme=tokyonight&hide_border=true&ring=00E5FF&fire=00E5FF" alt="Esrail2's Streak Stats" />
       </td>
     </tr>
   </table>
@@ -73,11 +59,19 @@ I am a passionate **Full-Stack Web Developer**, **SEO Expert**, and **Automation
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="mailto:esrailbblhs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/md-esrail-haque-a7467b217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://esrailhaque.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Esrail2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <a href="mailto:esrailbblhs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/md-esrail-haque-a7467b217" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://esrailhaque.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Esrail2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
